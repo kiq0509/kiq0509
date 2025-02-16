@@ -16,6 +16,13 @@
 
  #
 
+<img align="right" alt="" height="190px" src="src/pc.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaiky-amorim/)
+
+
 <h3 align="left">My Stack</h3>
 
 <div align="left">
@@ -23,13 +30,6 @@
   <img align="center" alt="kiq-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="kiq-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div> 
-
-
-<img align="right" alt="" height="190px" src="src/pc.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaiky-amorim/)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiq0509/kiq0509/output/github-contribution-grid-snake-dark.svg">
