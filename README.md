@@ -19,3 +19,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiq0509/kiq0509/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kiq0509/kiq0509/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img align="right" alt="" height="190px" src="src/pc.gif">
